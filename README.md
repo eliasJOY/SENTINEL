@@ -1,7 +1,8 @@
 # SENTINEL
 SENTINEL is smart security tool that ensures the safety by detecting and recognising people who enter our property.
 
-##Note: main.py contains the GUI for the software
+##NOTE 
+        main.py contains the GUI for the software
         pro1.py is the main program where facial detection, facial recognition and facial comparing is done
         knownFaces contains the faces to be recognized
         outputs contains the picture captured of the intruder with the time of alert as its name
