@@ -3,10 +3,10 @@ SENTINEL is smart security tool that ensures the safety by detecting and recogni
 
 ## NOTE 
 - main.py contains the GUI for the software.
--pro1.py is the main program where facial detection, facial recognition and facial comparing is done.
--knownFaces contains the faces to be recognized.
--outputs contains the picture captured of the intruder with the time of alert as its name.
--This program also sents mwssage to phone through sms by using twilio API.
+- pro1.py is the main program where facial detection, facial recognition and facial comparing is done.
+- knownFaces contains the faces to be recognized.
+- outputs contains the picture captured of the intruder with the time of alert as its name.
+- This program also sents mwssage to phone through sms by using twilio API.
 
 ## METHODOLOGY
 - During the initializing period we train the system with face data of familliar faces. The system saves face data of the trained models into its file directory.
